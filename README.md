@@ -1,7 +1,7 @@
 # Biden and Trump's Speeches on Israel-Gaza Conflict
 
 ## Introduction
-This project analyzes speeches and statements made by President Joe Biden and former President Donald Trump regarding the Israel-Gaza conflict from October 2023 to January 2024.
+This project analyzes speeches and statements made by President Joe Biden and former President Donald Trump regarding the Israel-Gaza conflict from October 2023 to May 2024.
 
 ## Methodology
 ### Data Collection
